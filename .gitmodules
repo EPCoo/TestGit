@@ -1,0 +1,6 @@
+[submodule "Module"]
+	path = Module
+	url = https://EPCoo@github.com/EPCoo/TestGitModule.git
+[submodule "Mmmm"]
+	path = Mmmm
+	url = https://EPCoo@github.com/EPCoo/TestGitModule.git
